@@ -71,7 +71,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: de-DE # Set the site language
 title: "Henry" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Henrys Blog berichtet von dem kunterbunten Leben eines Webentwicklers, Auto- und Motorradliebhabers, Hobby-DJs und Partymenschen" # Site description and default description, also used in jekyll-seo-tag
+description: "Henrys Blog berichtet von dem kunterbunten Leben eines Webentwicklers, Auto- und Motorradliebhabers, Hobby-DJs und Sportbegeisterten" # Site description and default description, also used in jekyll-seo-tag
 url: "https://henry.auffie.de" # Site url, also used in jekyll-seo-tag
 repo: "https://github.com/Henry31/henry31.github.io"
 email: "henry@auffie.de"
