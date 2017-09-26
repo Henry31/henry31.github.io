@@ -1,9 +1,9 @@
 ---
-title: About Alembic
+title: About Henry
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "https://unsplash.it/1300/400?image=971"
+  ## Heyho
+  <p style="color:#fff;">Henrys Blog erzählt vom Leben eines rotschöpfigen Individuums.<p>
+feature_image: "assets/img/Ducati_Harz_Henry.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 

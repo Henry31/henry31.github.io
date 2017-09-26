@@ -65,6 +65,10 @@ defaults:
   -
     values:
       image: "/assets/default-social-image.png" # Default image for sharing
+#    scope:
+#        path: "/assets/img"
+#      values:
+#        image: true
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
@@ -76,7 +80,7 @@ url: "https://henry.auffie.de" # Site url, also used in jekyll-seo-tag
 repo: "https://github.com/Henry31/henry31.github.io"
 email: "henry@auffie.de"
 # disqus: "" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+avatarurl: "https://www.gravatar.com/avatar/834da024eb85d2eb3886e84105af0884" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 
 # 8. Site navigation
 navigation_header:
