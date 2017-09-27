@@ -55,10 +55,10 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "Mein geistiger Erguss" # The post list page content
     feature_text: |
-      Welcome to the blog
-    feature_image: "https://unsplash.it/1300/400?image=1067"
+      <p style="color:#ffffff;">Welcome to Henrys Blog</p>
+    feature_image: "/assets/img/Kübelwagen_Wesendorf.jpg"
 
 # 6. Jekyll collections settings
 defaults:
@@ -75,7 +75,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: de-DE # Set the site language
 title: "Henry" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Henrys Blog berichtet von dem kunterbunten Leben eines Webentwicklers, Auto- und Motorradliebhabers, Hobby-DJs und Sportbegeisterten" # Site description and default description, also used in jekyll-seo-tag
+description: "Henrys Blog berichtet von dem kunterbunten Leben eines Webentwicklers, Auto- und Motorradliebhabers, Hobby-DJs und Sportbegeisterten Rotschopfes." # Site description and default description, also used in jekyll-seo-tag
 url: "https://henry.auffie.de" # Site url, also used in jekyll-seo-tag
 repo: "https://github.com/Henry31/henry31.github.io"
 email: "henry@auffie.de"
@@ -85,10 +85,10 @@ avatarurl: "https://www.gravatar.com/avatar/834da024eb85d2eb3886e84105af0884" # 
 # 8. Site navigation
 navigation_header:
   Home: /
-  Elements: /elements/
+  #Elements: /elements/
   Blog: /blog/
-  Categories: /categories/
-  Search: /search/
+  Kategorien: /categories/
+  Suche: /search/
  #Fork Alembic: https://github.com/daviddarnes/alembic
 
 navigation_footer:

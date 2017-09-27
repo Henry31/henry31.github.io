@@ -4,72 +4,39 @@ feature_text: |
   ## Heyho
   <p style="color:#fff;">Henrys Blog erzählt vom Leben eines rotschöpfigen Individuums.<p>
 feature_image: "assets/img/Ducati_Harz_Henry.jpg"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "In diesem Blog findest du Beiträge zu allen möglichen Dingen die in Henrys Leben passieren. Bunt, langweilig und mal mehr oder weniger detailiert :D Wir werden sehen was hier entsteht."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.
+In diesem Blog findest du Beiträge zu allen möglichen Dingen die in Henrys Leben passieren. Bunt, langweilig und mal mehr oder weniger detailiert :D Wir werden sehen was hier entsteht.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=http://localhost:4000/general/2016/08/29/example-post-three/&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#1DA1F2" %} {% include button.html text="Install Alembic" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
+{% include button.html text="More Henry" link="https://about.me/henryauffahrt" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=http://localhost:4000/general/2016/08/29/example-post-three/&text=Achtung%20Henrys%20Blog%20-&via=HenryAuffahrt" color="#1DA1F2" %} {% include button.html text="Buy me a coffee" link="https://www.paypal.me/HenryAuffahrt/5" color="#333333" %}
 
-## Features
+## Mehr über Auffahrten
 
-- Available as a starter kit or as [Jekyll theme gem](http://jekyllrb.com/docs/themes/)
-- Simple and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including IE and Edge
-- Configurable colours and typography in a single settings file
-- Extensive set of shortcodes to include various elements; such as buttons, icons, figure images and more
-- Solid typographic framework from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- Contact form built in using [Formspree](https://formspree.io/)
-- Works on [GitHub Pages](https://pages.github.com/) out of the box
-- Designed with [Siteleaf](http://www.siteleaf.com/) in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+Bei einer umgangsprachlichen __Auffahrt__, im Fachjargon _Anschlussstelle_, handelt es sich um eine Anbindungsstraße
+zu einer höhergelegenen Straße.
 
-## Examples
+Im folgenden einige Beispiele der schönsten **Autobahn Auffahrten**.
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+{% include figure.html image="https://upload.wikimedia.org/wikipedia/commons/b/b8/Stjad%C5%82a-dk50xdk2.jpg" caption="Kreisverkehr als Anschlussstelle mit vier Rampen" alt="Kreisverkehr als Anschlussstelle mit vier Rampen" position="center" %}
 
-- [bitpodcast.com](https://bitpodcast.com/)
-- [joelcagedesign.com](https://joelcagedesign.com/)
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](http://case2111.github.io/)
-- [www.10people.co.uk](http://www.10people.co.uk/)
-- [hrkeni.me](http://hrkeni.me/)
-- [venuthatikonda.github.io](https://venuthatikonda.github.io/)
-- [ccs17.bsc.es](https://ccs17.bsc.es/)
-- [karateca.org](http://www.karateca.org/)
+{% include figure.html image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Qb_interchange.jpg/800px-Qb_interchange.jpg" caption="Mischform aus Holländer Rampen und Teilkleeblatt" alt="Mischform aus Holländer Rampen und Teilkleeblatt" position="center" %}
 
-## Installation
+{% include figure.html image="https://ak2.picdn.net/shutterstock/videos/23812750/thumb/1.jpg"
+caption="Hakozaki Interchange - Anschlussstelle an japanische Hochautobahnen"
+alt="Hakozaki Interchange - Anschlussstelle an japanische Hochautobahnen" position="center" %}
 
-### As a Boilerplate / Fork
+Wichter Warnhinweis: In der Schweiz lauten die Bezeichnungen für eine Autobahn-Auffahrt _Autobahn-Einfahrt_. Ich weiß
+nicht wie man einen so schwerwiegende Bezeichnung zulassen kann.
 
-1. [Fork the repo](https://github.com/daviddarnes/alembic#fork-destination-box)
-2. Clone down the repo with `$ git clone git@github.com:username/reponame.git`
-3. Delete the following unnecessary files/folders: `demo/`, `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, `LICENSE`, `screenshot.png` and `alembic-jekyll-theme.gemspec`
-4. Change the `logo.svg` and `default-social-image.png` in the `assets/` folder to your own branding
-5. Configure your site settings using the `_config.yml`, more info can be found in [Configuration](https://github.com/daviddarnes/alembic#configuration)
-5. Change the `CNAME` record to your projects' record
-6. Install bundler with `$ gem install bundler`
-7. Install gems with `$ bundle install`
-8. Run Jekyll with `$ bundle exec jekyll serve --watch`
-9. Begin hacking for your project
+### Weitere Fakten zu __Autobahn-Auffahrten__:
+ 
+- Benannt sind _Anschlussstellen_ in der Regel nach einem nahen wichtigen Ort (und nicht genau dem Ort, an dem sie erbaut sind), vereinzelt jedoch auch nach angeschlossenen Regionen.
+- Es gibt insgesamt 13 verschiedene Typen von __Autobahn Auffahrten__
+- Zu jeder der verschiedenen Autobahn Auffahrten Typen gibt es auch nochmal Unterarten und Mischarten.
+- Gerade der Auffahrt Typ _"Parallelrampen"_ hat sehr viele Unterarten.
+- __Autobahn Auffahrten__ gelten als wichtiger Standortfaktor und sind somit wichtig für die Wirtschaft.
+- Als leistungsfähigste __Autobahn Auffahrt__ überhaupt gilt die DDI – Diverging Diamond Interchange (≈ umgekrempelter Diamant) oder DCD – Double Crossover Diamond Interchange (= doppelt überkreuzter Diamant)
+- Die DDI und DCD wurde 1970 in Frankreich erfunden.
 
-### As a Jekyll 3.3 theme gem
 
-1. Download the starter `/demo` content, [quick download link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/daviddarnes/alembic/tree/master/demo)
-2. Configure your site settings using the `_config.yml`, more info can be found in [Configuration](https://github.com/daviddarnes/alembic#configuration)
-3. Create a `logo.svg` and `default-social-image.png` in a new `assets/` folder
-4. Install bundler with `$ gem install bundler`
-5. Install gems with `$ bundle install`
-6. Run Jekyll with `$ bundle exec jekyll serve --watch`
-7. Begin hacking for your project
-
-### Boilerplate & Theme differences
-
-The boilerplate kit is better for more drastic hacking and changes, a project that's quite different to any other and needs a lot of custom work done. Additionally you'll only be able to use this method if you want to host it on GitHub Pages, as [themes can't be submitted](https://pages.github.com/themes/)... yet.
-
-Using the theme will allow you to receive updates made and will be more programmatic. To make your own changes you'll need to overwrite the files with your own. For example: If I want to change the colours and typography of my site I'll need to copy the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file and create my own in `_sass/_settings.scss` with my own changes. This is the same for all files within the theme, which means your own project will be more lean than if you were to use the boilerplate.
