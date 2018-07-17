@@ -4,10 +4,10 @@ feature_text: |
   ## Heyho
   <p style="color:#fff;">Henrys Blog erzählt vom Leben eines rotschöpfigen Individuums.<p>
 feature_image: "assets/img/Ducati_Harz_Henry.jpg"
-excerpt: "In diesem Blog findest du Beiträge zu allen möglichen Dingen die in Henrys Leben passieren. Bunt, langweilig und mal mehr oder weniger detailiert :D Wir werden sehen was hier entsteht."
+excerpt: "In diesem Blog findest du Beiträge zu allen möglichen Dingen die in Henrys Leben passieren. Bunt, chaotisch und mal mehr oder weniger detailiert. Wir werden sehen was hier entsteht."
 ---
 
-In diesem Blog findest du Beiträge zu allen möglichen Dingen die in Henrys Leben passieren. Bunt, langweilig und mal mehr oder weniger detailiert :D Wir werden sehen was hier entsteht.
+In diesem Blog findest du Beiträge zu allen möglichen Dingen die in Henrys Leben passieren. Bunt, chaotisch und mal mehr oder weniger detailiert. Wir werden sehen was hier entsteht.
 
 {% include button.html text="More Henry" link="https://about.me/henryauffahrt" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=http://localhost:4000/general/2016/08/29/example-post-three/&text=Achtung%20Henrys%20Blog%20-&via=HenryAuffahrt" color="#1DA1F2" %} {% include button.html text="Buy me a coffee" link="https://www.paypal.me/HenryAuffahrt/5" color="#333333" %}
 
