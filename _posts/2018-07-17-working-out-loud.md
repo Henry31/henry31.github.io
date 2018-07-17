@@ -3,10 +3,10 @@ title: Working Out Loud
 category: Working
 feature_image: "https://unsplash.it/1300/400?image=1050"
 feature_text: |
-  <p style="color:#ffffff;">Just heard about the concept from Working Out Loud.</p>
+  <p style="color:#ffffff;">Just heard about the concept called 'Working Out Loud'.</p>
 ---
 
-Let's check out the concept from Working Out Loud (WOL).
+Let's check out the concept of Working Out Loud (WOL).
 
 <!-- more -->
 
